@@ -2,11 +2,11 @@
 Eu sou **Wallef Santos** 🌎
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wallef-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wallef-Ju" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Wallef-Arduino" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Wallef-Pi" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="Wallef-Qgis" height="40" width="40" src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png">
+  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Qgis" height="35" width="35" src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png">
+  <img align="center" alt="Arduino" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="RaspberryPi" height="160" width="160" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg">
   <img align="right" alt="logo_wall-ef" height="150" width="150" src="https://cdn.discordapp.com/attachments/774647869587980311/877557694968512572/coffee-break.png">
 </div>
 
