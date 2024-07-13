@@ -8,7 +8,7 @@ Eu sou **Wallef Santos** 🌎
   <img align="center" alt="Qgis" height="37" width="37" src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png">
   <img align="center" alt="RaspberryPi" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="Arduino" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="right" alt="logo_wall-ef" height="140" width="140" src="https://cdn.discordapp.com/attachments/774647869587980311/877557694968512572/coffee-break.png">
+  <img align="right" alt="logo_wall-ef" height="140" width="140" src="https://i.ibb.co/q1YgFD0/ambientalismo.png">
 </div>
 
 ##
