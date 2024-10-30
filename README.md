@@ -3,10 +3,12 @@ Eu sou **Wallef Santos** 🌎
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="47" width="47" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Qgis" height="37" width="37" src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png">
   <img align="center" alt="Django" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Pandas" height="47" width="47" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Qgis" height="37" width="37" src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png">
   <img align="center" alt="Arduino" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="right" alt="logo_wall-ef" height="60" width="60" src="https://i.ibb.co/q1YgFD0/ambientalismo.png">
 </div>
